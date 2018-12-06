@@ -1,0 +1,4 @@
+1. a Click event
+        $(document).on("click", "a#stu-prof", function () {
+            alert(1)
+          })
