@@ -2,3 +2,10 @@
 this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
 2. Hide soft key board when start activity android
 getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);
+3. dp to px
+int Utils.dpToPx(<Context>, <dp value>)
+float TypedValue.applyDimension(
+                TypedValue.COMPLEX_UNIT_DIP,
+                <dp value>,
+                getResources().getDisplayMetrics()
+        );
