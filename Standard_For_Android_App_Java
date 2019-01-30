@@ -87,3 +87,9 @@ dependencies {
     }
 }
 /////////////////////////////////////////
+Manifest.xml
+---
+<uses-permission android:name="android.permission.INTERNET" />
+<application ...
+    android:usesCleartextTraffic="true"
+    tools:replace="android:icon"/>
