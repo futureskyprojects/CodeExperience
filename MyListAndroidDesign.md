@@ -25,8 +25,7 @@
 
 ![](https://raw.githubusercontent.com/futureskyprojects/XChat/master/Screenshots/Demotheme.png)
 
-<center>
-**Và một số ứng dụng khác nhưng theo yêu cầu không được phép công khai hoặc đang trong quá trình triển khai**</center>
+**Và một số ứng dụng khác nhưng theo yêu cầu không được phép công khai hoặc đang trong quá trình triển khai**
 
 
 ## Thiết kế và thực hiện
