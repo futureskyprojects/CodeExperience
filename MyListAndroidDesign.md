@@ -9,9 +9,7 @@
 
 ![](https://github.com/futureskyprojects/AntiTheftDesign/raw/master/Demo/Screenshots/ListNotify.png)
 
-<center>
-	<img src="https://github.com/futureskyprojects/AntiTheftDesign/raw/master/Demo/Screenshots/exit.jpg" width="33%">
-</center>
+<center><img src="https://github.com/futureskyprojects/AntiTheftDesign/raw/master/Demo/Screenshots/exit.jpg" width="33%"></center>
 
 ## 2. Giao diện của ứng dụng đồng hồ đo nước thông minh ([Tải bản thử ở đây](https://github.com/futureskyprojects/WatermeterApplication/raw/master/SmartWaterMeter-Beta.apk "Tải bản thử ở đây"))
 
