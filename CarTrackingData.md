@@ -11,7 +11,7 @@
   - Gửi dữ liệu liên tục đến server.
   
 #### 2.2. Về phía máy chủ
-  a) Phía trang quản lý
+#####a) Phía trang quản lý
     Trang quản lý tại phía máy chủ sẽ đảm nhận việc hiển thị thông tin sau khi được phân giải từ thiết bị, đồng thời cung cấp một số chức năng sau cho người dùng:
     - Có trang đăng nhập để đảm bảo tính bảo mật
     - Đăng ký không được công khai, trang đăng ký được thực hiện ngầm và do admin hoặc những người có thẩm quyền tạo tài khoản
@@ -29,7 +29,7 @@
     - Có chức năng lấy lại mật khẩu
     - Thực hiện lắng nghe được ở nhiều Rom khác nhau
     - Tự phân giải chuỗi vị trí ở client và cho hiển thị ngay sau đó
-  b) Về phía máy chủ nhận và truyền dữ liệu
+#####b) Về phía máy chủ nhận và truyền dữ liệu
     Ở đây, kiến nghị sử dụng SocketIO của NodeJS vì tính đơn giản, tiện dụng, đễ bảo trì và triển khai công nghệ. Các yêu cầu đối với server như sau:
     - Nhận được IMEI của thiết bị
     - Tạo Rom socket theo IMEI của mỗi thiết bị
